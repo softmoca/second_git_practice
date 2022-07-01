@@ -1,7 +1,12 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Kenneth
 
+=======
+manager: Nora
+Melissa
+>>>>>>> 59e4569 (Edit Leopards)
 members:
 - Linda
 - William
