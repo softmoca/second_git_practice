@@ -1,12 +1,7 @@
 team: Tigers
 
-<<<<<<< HEAD
 manager: Kenneth
-Nicholas
-=======
-manager: Deborah
-
->>>>>>> conflict-1
+Ruth
 members:
 - Linda
 - William
